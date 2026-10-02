@@ -1,0 +1,10 @@
+{
+  "description": "Streamline personnel coordination and duty management with a secure platform designed for hierarchical access, enabling efficient operations and emergency response.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
